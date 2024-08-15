@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/4b9f98f1ea6905e343835fc5e73f7df25dadc32247b2b071c629fe61c8520f11/68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f323435332d616c6572742f646f776e6c6f6164" alt="wave" width="40"> , I'm Ahmed Bayoumii</h1>
+<h1 align="center"> <img src="https://camo.githubusercontent.com/4b9f98f1ea6905e343835fc5e73f7df25dadc32247b2b071c629fe61c8520f11/68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f323435332d616c6572742f646f776e6c6f6164" alt="wave" width="40"> Hi , I'm Ahmed Bayoumii</h1>
 <h3 align="center">Aspiring data engineer with a strong foundation in data engineering concepts, ETL processes, and database management. Seeking an opportunity to apply my skills and contribute to a dynamic data engineering team, while furthering my knowledge and expertise in the field</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baioumi7" alt="baioumi7" /></a> </p>
