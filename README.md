@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bayoumii</h1>
 <h3 align="center">Aspiring data engineer with a strong foundation in data engineering concepts, ETL processes, and database management. Seeking an opportunity to apply my skills and contribute to a dynamic data engineering team, while furthering my knowledge and expertise in the field</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baioumi7" alt="baioumi7" /></a> </p>
+
 - 🔭 I’m currently working on **iti**
 
 - 🌱 I’m currently learning **Airflow , CI/CD , DWH**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Baioumi7](https://github.com/Baioumi7)
 
 - 💬 Ask me about **Data Engineering**
 
@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baioumi7&show_icons=true&locale=en&layout=compact" alt="baioumi7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baioumi7&show_icons=true&locale=en" alt="baioumi7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baioumi7&" alt="baioumi7" /></p>
