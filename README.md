@@ -1,5 +1,5 @@
-<h1 align="center"> <![68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f323435332d616c6572742f646f776e6c6f6164](https://github.com/user-attachments/assets/41b29a53-0c7e-4321-bf6b-76d9f6935b95)
-> Hi , I'm Ahmed Bayoumii</h1>
+<h1 align="center">
+  <img src="https://slackmojis.com/emojis/2453-alert/download" alt="Alert" width="40" height="40" /> Hi , I'm Ahmed Bayoumii</h1>
 <h3 align="center">Aspiring data engineer with a strong foundation in data engineering concepts, ETL processes, and database management. Seeking an opportunity to apply my skills and contribute to a dynamic data engineering team, while furthering my knowledge and expertise in the field</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baioumi7" alt="baioumi7" /></a> </p>
