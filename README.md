@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **iti**
 
-- 🌱 I’m currently learning **Airflow , CI/CD , DWH**
-
 - 💬 Ask me about **Data Engineering**
 
 <h3 align="left">Connect with me:</h3>
